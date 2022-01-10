@@ -7,9 +7,7 @@
             <img :src="item.image" alt="">
           </a>
         </div>
-
       </div>
-
     </div>
     <div class="swiper-pagination" id="swiper-pagination-instagram"></div>
   </div>
@@ -66,12 +64,9 @@ export default {
 
   methods: {
     async getInstagramFeed() {
-      this.$axios.$get('https://php.localidautore.it/rapidinsta/index.php?account=45563639268&count=12').then((res) => {
-        console.log(res)
-        this.items = res;
-      })
-
-
+        const res = await fetch('https://php.localidautore.it/rapidinsta/index.php?account=45563639268&count=12');
+        this.items = await res.json();
+        console.log(this.items);
     },
   }
 }
