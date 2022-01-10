@@ -107,11 +107,6 @@ export default {
         en: '/excursions', // -> accessible at /fr/a-propos
       },
 
-
-      gastronomy: {
-        it: '/cucina',
-        en: '/gastronomy',
-      },
       services: {
         it: '/servizi',
         en: '/services',
