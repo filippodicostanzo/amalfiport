@@ -5,21 +5,34 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 mb-30 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
-            <h2 class="section-title">About <span>Us</span></h2>
-            <p class="text-justify">In the port of Amalfi, the Coppola Marina-Dock, managed by the siblings Coppola,
-              motivated by passion,
-              commitment and dedication for the sea in general and seafaring in particular, thanks also to the passion
-              handed down by their ancestors and to their over thirty years experience, offers services of quality with
-              sympathy.</p>
-            <p class="text-justify">The dedication, if not love, for their profession has resulted in the Coppola
-              Marina-Dock to become the
-              preferred location for all sea lovers who come to visit Amalfi from all over the world.</p>
+            <div v-if="$nuxt.$i18n.locale==='it'">
+              <h2 class="section-title">Chi Siamo <span></span></h2>
+              <p>Nel porto di Amalfi, il Pontile Coppola gestito dai fratelli Coppola, spinti dalla passione, impegno e
+                dedizione per il mare e la nautica, grazie anche passione tramandata dai loro antenati ed alla loro
+                esperienza trentennale, offre servizi di qualità con simpatia.</p>
+              <p>La dedizione se non l'amore per questo lavoro ha fatto sì che il pontile Coppola è diventato l'approdo
+                preferito per tutti gli appassionati del mare che da tutte le parti del mondo vengono in visita ad
+                Amalfi.
+              </p>
+            </div>
+            <div v-if="$nuxt.$i18n.locale==='en'">
+              <h2 class="section-title">About <span>Us</span></h2>
+              <p class="text-justify">In the port of Amalfi, the Coppola Marina-Dock, managed by the siblings Coppola,
+                motivated by passion,
+                commitment and dedication for the sea in general and seafaring in particular, thanks also to the passion
+                handed down by their ancestors and to their over thirty years experience, offers services of quality
+                with
+                sympathy.</p>
+              <p class="text-justify">The dedication, if not love, for their profession has resulted in the Coppola
+                Marina-Dock to become the
+                preferred location for all sea lovers who come to visit Amalfi from all over the world.</p>
+            </div>
           </div>
           <div class="col-md-6 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
             <div class="about-img">
               <div class="img"><img :src="require('assets/images/slider-01.jpg')" class="img-fluid" alt=""></div>
               <div class="about-img-2 about-buro">
-                <nuxt-link :to="localePath('about')" tag="a"> {{$t('buttons.read_more')}}</nuxt-link>
+                <nuxt-link :to="localePath('about')" tag="a"> {{ $t('buttons.read_more') }}</nuxt-link>
               </div>
             </div>
           </div>
@@ -39,8 +52,21 @@
 
         </div>
         <div class="row">
-          <div class="col-md-12 pt-5 two-columns">
+          <div class="col-md-12 pt-5 two-columns" v-if="$nuxt.$i18n.locale==='it'">
+            <p>La leggenda vuole che Amalfi sia stata fondata da Ercole in nome della sua amata ninfa, la quale ebbe
+              breve vita. Ercole la volle seppellire nel posto più bello del mondo in cui, a testimonianza di un grande
+              amore, fondò una città che portasse il suo nome.</p>
+            <p>L'ipotesi storica invece racconta che Amalfi trarrebbe le sue origini da famiglie romane che, imbarcate
+              per Costantinopoli, furono travolte da una tempesta nel golfo di Policastro; avrebbero così fondato una
+              "Melphes", l'attuale Melfi poi, trasferitisi più a nord, avrebbero preso dimora nel luogo dell'attuale
+              Amalfi, fondandola col nome di "A-Melphes". Infatti sotto lo stemma della città c'è la scritta: discende
+              da patrizi romani.</p>
+            <p>Le prime notizie certe di Amalfi risalgono al 533, al tempo della guerra gotica allorché, con la vittoria
+              di Narsete su Teia, Amalfi passò sotto il dominio dell'impero Bizantino ed entrò a far parte del ducato di
+              Napoli. Sottoposta ai Bizantini, divenne un centro di traffici tra l'Oriente e l'Italia meridionale.</p>
+          </div>
 
+          <div class="col-md-12 pt-5 two-columns" v-if="$nuxt.$i18n.locale==='en'">
             <p>The legend wants Amalfi to have been founded by Hercules in name of his beloved nymph, Amalphi. Hercules
               wanted to bury her in the most enchanting place on earth in which, to testimony of his great love, he
               founded a city with her name.</p>
@@ -53,11 +79,10 @@
               victory of Narsete over Teia, Amalfi passed under the dominion of the Byzantine empire belonging to the
               dukedom of Naples. Submitted to the Byzantines, it became a commercial trade center between the east and
               southern Italy.</p>
-
           </div>
           <div class="col-md-12 text-center pt-5">
             <nuxt-link :to="localePath('amalficoast')">
-              <button class="btn-dark"> {{$t('buttons.read_more')}}</button>
+              <button class="btn-dark"> {{ $t('buttons.read_more') }}</button>
             </nuxt-link>
           </div>
         </div>
@@ -77,7 +102,7 @@
         <div class="row">
           <div class="col-md-12 text-center pt-5">
             <nuxt-link :to="localePath('services')">
-              <button class="btn-dark"> {{$t('buttons.read_more')}}</button>
+              <button class="btn-dark"> {{ $t('buttons.read_more') }}</button>
             </nuxt-link>
           </div>
         </div>
@@ -220,37 +245,37 @@
 </template>
 
 <script>
-  import CarouselPhotos from "~/components/CarouselPhotos";
-  import CarouselExcursions from "~/components/CarouselExcursions";
-  import CarouselInstagram from "~/components/CarouselInstagram";
-  import CarouselServices from "~/components/CarouselServices";
+import CarouselPhotos from "~/components/CarouselPhotos";
+import CarouselExcursions from "~/components/CarouselExcursions";
+import CarouselInstagram from "~/components/CarouselInstagram";
+import CarouselServices from "~/components/CarouselServices";
 
-  export default {
-    components: {CarouselExcursions, CarouselPhotos, CarouselServices, CarouselInstagram},
-    data() {
-      return {
-        currentLocation: {},
-        circleOptions: {},
-        locations: [
-          {
-            lat: 40.6319575,
-            lng: 14.5976683
-          },
-        ],/*
+export default {
+  components: {CarouselExcursions, CarouselPhotos, CarouselServices, CarouselInstagram},
+  data() {
+    return {
+      currentLocation: {},
+      circleOptions: {},
+      locations: [
+        {
+          lat: 40.6319575,
+          lng: 14.5976683
+        },
+      ],/*
                 pins: {
                     selected: "data:image/png;base64,iVBORw0KGgo...",
                     notSelected: "data:image/png;base64,iVBORw0KGgo..."
                 },*/
-        mapStyle: [],
-        clusterStyle: [
-          {
-            url: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m1.png",
-            width: 56,
-            height: 56,
-            textColor: "#fff"
-          }
-        ]
-      }
+      mapStyle: [],
+      clusterStyle: [
+        {
+          url: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m1.png",
+          width: 56,
+          height: 56,
+          textColor: "#fff"
+        }
+      ]
     }
   }
+}
 </script>

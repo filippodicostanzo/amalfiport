@@ -28,8 +28,6 @@
       </div>
 
       <nav class="mobile-menu">
-
-        <client-only>
           <b-nav-item>
             <nuxt-link :to="localePath('/')" tag="a"><span @click="$nuxt.$emit('close-sidemenu')" exact class="text-uppercase">Home</span>
             </nuxt-link>
@@ -38,7 +36,6 @@
             <nuxt-link :to="localePath(item.slug)" tag="a"><span @click="$nuxt.$emit('close-sidemenu')" exact class="text-uppercase">{{$t('menu.'+item.name)}}</span>
             </nuxt-link>
           </b-nav-item>
-        </client-only>
       </nav>
 
       <div class="lang-box text-center mt-4">
