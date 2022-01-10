@@ -1,0 +1,28 @@
+@media #{$xs} {
+  .left-panel,
+  .left-panel-short {
+    display: none;
+  }
+  .navbar {
+    width: 100%;
+    padding: 0;
+  }
+
+  body:not(.ishome) {
+    .logo-wrapper {
+      background: transparent;
+    }
+  }
+
+
+  .ishome {
+    .navbar {
+      position: relative;
+    }
+  }
+
+  .logo-wrapper {
+    width: 100%;
+    justify-content: center;
+  }
+}

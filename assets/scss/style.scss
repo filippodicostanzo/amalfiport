@@ -1,0 +1,23 @@
+@import "variables";
+@import "buttons";
+@import "layout";
+@import "navbar";
+@import "header";
+@import "slider";
+@import "footer";
+@import "lines";
+@import "responsive";
+@import "swiper";
+@import "flaticon";
+
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: none;
+  list-style: none;
+  word-wrap: break-word;
+}
+
+

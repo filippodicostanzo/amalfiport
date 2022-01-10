@@ -1,0 +1,97 @@
+{
+  "excursions": [
+    {
+      "id": "amalfi",
+      "name": {
+        "it": "Amalfi",
+        "en": "Amalfi"
+      },
+      "description": {
+        "it": "<p>\nAmalfi era una Repubblica Marinara, la prima in Italia. Infatti, dopo la caduta\ndell'Impero Romano, essa fu la prima città a ristabilire dei rapporti commerciali\ncon l'Oriente ed, in questo modo, riuscì ad importare merci esotiche quali: tappeti,\ncarta e caffè.\n</p>\n<p>\nAmalfi è stata la patria di Flavio Gioia, inventore della bussola e della Tabula\nde Amalpha. Viene ricordata anche come la città che diede i natali, nel 1112, a\nFra\" Gerardo Sasso di Scala (paesino alle spalle di Amalfi), all\"ordine militare\ne religioso chiamato I cavalieri di San Giovanni, trasformato poi ne I cavalieri\ndi Cipro, poi ancora ne I cavalieri di Rodi ed infine, nel 1530, ne I cavalieri\ndi Malta, ordine che ancora oggi esiste. I cavalieri combatterono ripetutamente\ncontro i Saraceni e, nel 849 D.C., furono chiamati a difendere Roma e la Chiesa\nnella famosa battaglia di Ostia. Oggi Amalfi è una quiete e pittoresca cittadina\nbalneare con un clima mite ed incomparabili bellezze naturali. In essa sono presenti\ninnumerevoli monumenti storici di grande interesse come il Duomo, i Vecchi Arsenali\ne le Cartiere Amalfitane che producevano e producono ancor oggi la famosa carta\ndi Amalfi.\n</p>",
+        "en": "<p>\nAmalfi was the first Marine Republic of Italy. After the fall of the Roman Empire,\nit was the first city to re-establish trade between East and West by importing exotic\nmerchandise including carpets, paper and coffee.\n</p>\n<p>\nIt was the birthplace of Flavio Gioia, the inventor of the mariners' compass who\ngave navigators the famous maritime law known as \"Tabula de Amalpha\".\nAmalfi funded a magnificent hospital in Jerusalem. In 1112, Frà Gerardo Sasso\ndi Scala, born in the neighbouring eponymous little town, gave the citizens of\nAmalfi the military and religious order which still exists today, \"I cavalieri\ndi Malta\" (The Knights of Malta). Before settling on this name, the order\nhad been known as \"I cavalieri di San Giovanni\", \"I cavalieri di\nCipro\" and \"I cavalieri di Rodi\". Many battles were fought between\nthe Cavalieri and the Saracens and in 849, they were called upon to defend Rome\nand the Church in the famous battle of Ostia. Today, Amalfi is a peaceful,\npicturesque seaside town, blessed with a mild climate and set in an environment\nof outstanding natural beauty. Just some of the many noteworthy buildings of\nhistorical interest are the Duomo, the Arsenal and the old paper mills that still\nto this day produce the luxurious paper famous throughout the world.\n</p>"
+      },
+      "resume": {
+        "it": "Amalfi era una Repubblica Marinara, la prima in Italia. Infatti, dopo la caduta dell'Impero Romano, essa fu la prima città a ristabilire dei rapporti commerciali con l'Oriente.",
+        "en": "Amalfi was the first Marine Republic of Italy. After the fall of the Roman Empire, it was the first city to re-establish trade between East and West."
+      }
+    },
+    {
+      "id": "ravello",
+      "name": {
+        "it": "Ravello",
+        "en": "Ravello"
+      },
+      "description": {
+        "it": "Ravello, situato in una posizione splendida, su un insediamento roccioso a cavallo delle Valli del Dragone e della Regina, fu fondato probabilmente nel 4 secolo a.C. da popolazioni Romane che scapparono dai barbari. È situato in una posizione più elevata rispetto alle altre località della Costiera Amalfitana e può vantare panorami bellissimi e insoliti, ad esempio quello di Villa Cimbrone, soprannominato Terrazzo dell\"Infinità. Nel passato Ravello già godeva di un prospero sviluppo economico quando faceva parte della Repubblica Amalfitana, ma Ravello si ribellò contro di essa quando il popolo di Amalfi tradì il re Normanno Roberto Guiscardo nel 1081, eleggendo il loro proprio Doge. Ravello rifiutò di seguire Amalfi verso questo tradimento e meritò l'appellativo di Rebello da cui oggi deriva il suo nome, che fu messo proprio dalla popolazione di Amalfi. In quella occasione, aveva l'appoggio di Papa Vittore III che in primo luogo la liberò dalla dipendenza di Amalfi, costruendo il palazzo vescovile e di conseguenza (1086) instaurò una sede episcopale. Divenne poi una potenza economica, sede di fiorenti industrie tessili. Dal saccheggio fatto da Pisa nel 1137, iniziò poi un lento declinò economico che si risollevò nell'ultimo secolo quando Ravello divenne una meta turistica preferita dal \"Grande Giro\" fatto da grandi artisti e di intellettuali europei. Wagner, Longfellow e molti altri si fermarono a Ravello per un periodo di tempo, e ognuno fu incantato dal fascino straordinario di questi luoghi. In ultimo ma non di meno importanza Greta Garbo a Ravello si nascose per una delle sue fughe che appassionò i trentenni di tutto il mondo., ecc.",
+        "en": "<p>\nRavello is located in a splendid position on the spur that divides the Valley of\nthe Dragon and the Valle della Regina, was probably founded in the 4th Century BC\nby Romans fleeing the barbarians. Situated at the highest point of the Amalfi Coast,\nit boasts staggeringly beautiful panoramas, such as the views from Villa Cimbrone,\nknown as the Terrace of Infinity (Terrazzo dell\" Infinità). Once part of the Amalfi\nRepublic, it was for many years a prosperous town, but rebelled when the people\nof Amalfi betrayed the Norman King Roberto Guiscardo in 1081 by electing their own\nDoge. Ravello would have no part in this rebellion led by Amalfi and as a consequence\nthe name Rebello was conferred upon it by the townspeople of Amalfi, its present\nname a derivation of this. Ravello was granted independence from Amalfi by Pope\nVictor III; he built a bishop's palace and in 1086 it was chosen as the location\nfor an Episcopal seat. It subsequently became a flourishing centre for the textile\nindustry. After the pillage by the Pisans in 1137, a period of slow economic decline\nensued which recovered in the last century when the town became the favourite holiday\nresort of great artists and intellectuals hailing from all over Europe. Wagner,\nLongfellow and many others stayed at length in Ravello, all enchanted by its special\nallure. The reclusive Greta Garbo found refuge in Ravello during the 30's, much\nto the fascination of the world at large.\n</p>"
+      },
+      "resume": {
+        "it": "Ravello, situato in una posizione splendida, su un insediamento roccioso a cavallo delle Valli del Dragone e della Regina.",
+        "en": "Ravello is located in a splendid position on the spur that divides the Valley of the Dragon and the Valle della Regina."
+      }
+    },
+    {
+      "id": "capri",
+      "name": {
+        "it": "Capri",
+        "en": "Capri"
+      },
+      "description": {
+        "it": "Capri (in greco \"Kapros\" ovvero selvatico, per la sua forma caratteristica) è un'isola di formazione calcarea, localizzata sulla punta estrema della Penisola Sorrentina. Capri in passato era conosciuta dai Latini come \"Capraea\" e \"Insula Sirenussae\", da Omero come \"Antheomoessa\", dall\"imperatore Augusto come \"Apragopolis\": questi nomi e nomignoli, evocando allo stesso tempo dolcezza e asprezza, vennero assegnati col passare dei secoli all\"isola molto probabilmente per descriverne l'aspetto incantevole e la bellezza senza pari. L'isola, che è alquanto piccola (il suo perimetro non supera i 17 km), è quasi completamente formata da rocce calcaree che, nel corso dei millenni, i movimenti della terra hanno modellato in rilievi montuosi (il picco più alto, Monte Solaro, ha un'altitudine di 589 m).",
+        "en": "<p>\nCapri (derived from the Greek \"Kapros\", wild boar, its shape reminiscent\nof a reclining boar) with its spectacular limestone cliff scenery is located off\nthe furthermost tip of the Sorrentine peninsula. It was known by the Latins as\n\"Capraea\" and \"Insula Sirenussae\", by Homer as \"Antheomoessa\",\nand by Augustus as \"Apragopolis\". These names and terms of endearment\nreflecting both the sweetness and ruggedness of the terrain have been bestowed\nthroughout the centuries upon the island in an attempt to capture the island's\ncharm and unique beauty. This small island, with a perimeter of 17 kms, is almost\ntotally made up of limestone cliffs, its craggy outcrops moulded over thousands\nof years by the earth's movement. Monte Solano with an altitude of 589 metres is\nthe highest peak.\n</p>"
+      },
+      "resume": {
+        "it": "Capri (in greco \"Kapros\" ovvero selvatico, per la sua forma caratteristica) è un'isola di formazione calcarea, localizzata sulla punta estrema della Penisola Sorrentina",
+        "en": "Capri (derived from the Greek \"Kapros\", wild boar, its shape reminiscent of a reclining boar) with its spectacular limestone cliff scenery is located off the furthermost tip of the Sorrentine peninsula."
+      }
+    },
+
+    {
+      "id": "naples",
+      "name": {
+        "it": "Napoli",
+        "en": "Naples"
+      },
+      "description": {
+        "it": "<p>\nNapoli, come è conosciuta dagli Italiani, è situata nel centro del Mediterraneo,\nalla base del Monte Vesuvio. Copre circa 117,27 kmq con una popolazione di circa\n1.020.120 abitanti.\n</p>\n<p>\nLa città di Napoli è rinomata per la sua storia ricca di eventi, la sua arte senza\ntempo, la sua bellezza e il suo stile di vita ricco di un grande patrimonio culturale.\nNapoli fu fondata nel 7° e 6° Secolo a.C., nacque sia come porto e anche e soprattutto\ncome luogo di vacanza per le famiglie patrizie.\n</p>\n<p>\nNapoli è adornata da numerose chiese, monumenti, palazzi, castelli, teatri, parchi\ne spettacolari scenari. La città è anche un ottimo punto di partenza per i turisti\npoichè è situata nei pressi di tutte le maggiori attrazioni turistiche come Sorrento,\nCapri, Ischia, Positano, Amalfi, ecc.\n</p>",
+        "en": "<p>\nNapoli is situated at the very heart of the Mediterranean, lying at the foot of\nMount Vesuvio. The city covers an area of approximately 117 square kilometres and\nhas a population of over one million. Renowned for its eventful and colourful history,\nart that transcends time and its inherent beauty, the city offers a life style enriched\nby a vast cultural patrimony. The city was founded between the 6th and 7th centuries\nBC with a dual function: not only was it an important port, it was primarily a holiday\nresort for patrician families. The city is adorned with beautiful churches, monuments,\npalaces, castles, theatres, parks and a mesmerising skyline and landscape. Its proximity\nto all the most beautiful tourist spots including Sorrento, Capri, Ischia, Positano\nand Amalfi makes it an excellent point of departure for all visitors.\n</p>"
+      },
+      "resume": {
+        "it": "Napoli, come è conosciuta dagli Italiani, è situata nel centro del Mediterraneo, alla base del Monte Vesuvio. Copre circa 117,27 kmq con una popolazione di circa 1.020.120 abitanti.",
+        "en": "Napoli is situated at the very heart of the Mediterranean, lying at the foot of Mount Vesuvio. The city covers an area of approximately 117 square kilometres and has a population of over one million"
+      }
+    },
+    {
+      "id": "positano",
+      "name": {
+        "it": "Positano",
+        "en": "Positano"
+      },
+      "description": {
+        "it": "<p>\nPositano è il primo paese ad ovest della Costa di Amalfi. Sembra che stia in piedi\ncontro il muro roccioso che declina verso il mare e con le sue case multicolori\nche si aiutano l'un l'altro ad arrampicarsi verso il cielo. Esistono molte storie\nriguardanti l'origine del suo nome. La più conosciuta è quella che narra circa il\ntrasporto del quadro della Vergine Maria (oggi conservato nella Chiesa Madre) attraverso\nil mare tempestoso.\n</p>\n<p>\nI marinai, quando si trovarono di fronte alla spiaggia di Positano, tra i flutti\nburrascosi, udirono chiaramente una voce che ripetendo diceva: \"Posa... Posa...\".\nCosì sbarcarono e non appena portarono il ritratto della Madonna sulla spiaggia,\ncome per miracolo il temporale diminuì. Secondo una versione storica, il nome di\nPositano deriva da Paestum, quando i suoi abitanti, scappati da un'incursione Saracena\nnel 915 d.C., trovarono rifugio nel territorio dell'Abbazia Benedettina di S. Vito,\ndove oggi sorge il piccolo villaggio di Nocelle e Montepertuso..Sorrento, Capri,\nIschia, Positano, Amalfi, ecc.\n</p>",
+        "en": "<p>\nPositano is the most westerly town on the Amalfi Coast. The town looking as though it is\nstanding on tip toes, nestles against the craggy rock face plunging towards the\nsea, its cluster of colourful houses reaching skywards.\n</p>\n<p>\nThere are many theories as to how the town acquired its name. The best known is\nthe legend of journey of the painting of the Virgin Mary, carried through stormy\nseas and now housed in the Chiesa Madre.\n</p>\n<p>\nAs the sailors were drawing closer to the beach of Positano, they heard between\nthe crashing of stormy waves a crystal clear voice repeating \"Posa... Posa...\".\nAs they came ashore, bearing the painting of the Madonna, the storm miraculously\nsubsided. According to history however, the name Positano comes from Paestum. Its\ninhabitants, fleeing from Saracen raids in 915 AD found refuge on the land of the\nBenedictine Abbey of San Vito, where, situated high above, are the hamlets of Nocelle\nand Montepertuso.\n</p>"
+      },
+      "resume": {
+        "it": "Positano è il primo paese ad ovest della Costa di Amalfi. Sembra che stia in piedi\ncontro il muro roccioso che declina verso il mare e con le sue case multicolori.",
+        "en": "Positano is the most westerly town on the Amalfi Coast. The town looking as though it is standing on tip toes, nestles against the craggy rock face plunging towards the sea."
+      }
+    },
+
+    {
+      "id": "sorrento",
+      "name": {
+        "it": "Sorrento",
+        "en": "Sorrento"
+      },
+      "description": {
+        "it": "Sorrento fu fondato probabilmente dai greci e subì per vario tempo l'influenza degli Etruschi, poi, per un periodo più lungo, fu sotto l'influenza di un\"altra popolazione italica: gli Oschi. Durante l'età Romana era noto come Surrentum e fu ricordato per il suo ruolo nella rivolta della gente Italica (90 a.C.); più tardi divenne la sede del governo della tribù Menenia e del vescovato nel 420 d.C. Quando cominciò il declino dell'Impero Bizantino in Italia, Sorrento divenne un ducato, prima come dipendenza dei duchi di Napoli poi sotto i conti e i duchi locali che lottarono continuamente contro Amalfi, Salerno e i Saraceni. Sorrento, insieme con le altre città della Campania, prese parte nella battaglia contro i musulmani. Lottò contro il Longobardi da Benevento e fu coinvolta anche in lotte interne fra le famiglie nobiliari locali.",
+        "en": "<p>Sorrento was most likely founded by the Greeks. The Etruscans and more significantly the\nOschi, both Italic peoples, were early settlers. During the Roman Empire it was\nknown as Surrentum and is to this day remembered for its role in the insurgence\nby the Italic peoples in 90 A.D. It subsequently became the seat of government of\nthe Menenia tribe and a bishopric in 420 A.D. At the onset of the decline of the\nBizantine Empire in Italy, Sorrento became part of the Duchy of Naples and subsequently\nthe Duchy of the local gentry who took part in wars with Amalfi, Salerno and the\nSaracens.\n</p>\n<p>\nSorrento, with other towns of Campania, fought battles against Muslims, the Longobards\nfrom Benevento, and was involved in the many skirmishes between the local gentry.\n</p>"
+      },
+      "resume": {
+        "it": "Sorrento fu fondato probabilmente dai greci e subì per vario tempo l'influenza degli Etruschi, poi, per un periodo più lungo, fu sotto l'influenza di un\"altra popolazione italica.",
+        "en": "Sorrento was most likely founded by the Greeks. The Etruscans and more significantly the Oschi, both Italic peoples, were early settlers."
+      }
+    }
+
+  ]
+}

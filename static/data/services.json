@@ -1,0 +1,149 @@
+{
+  "services": [
+    {
+      "id": "01",
+      "icon": "mooring",
+      "name": {
+        "it": "Posti Barca",
+        "en": "Mooring Places"
+      },
+      "description": {
+        "it": "Prenotazione posti unità da diporto fino a 35m.",
+        "en": "Berthing for yatch up to 35m."
+      }
+    },
+    {
+      "id": "02",
+      "icon": "assistance",
+      "name": {
+        "it": "Assistenza",
+        "en": "Support"
+      },
+      "description": {
+        "it": "Servizio assistenza all’arrivo, ormeggio e disormeggio, assistenza in manovra.",
+        "en": "Assistance service on arrival, mooring and unmooring, assistance in maneuvering."
+      }
+    },
+    {
+      "id": "03",
+      "icon": "crane",
+      "name": {
+        "it": "Gru",
+        "en": "Crane"
+      },
+      "description": {
+        "it": "A disposizione una gru mobile per pesi fino a 15t.",
+        "en": "Available a mobile crane for weights up to 15t."
+      }
+    },
+    {
+      "id": "04",
+      "icon": "repair",
+      "name": {
+        "it": "Riparazione",
+        "en": "Repair"
+      },
+      "description": {
+        "it": "Riparazione di scafi in legno e vetroresina, di motori e componenti elettriche.",
+        "en": "Wooden and fiber glass boats repair; Engine and electric repair."
+      }
+    },
+    {
+      "id": "05",
+      "icon": "water",
+      "name": {
+        "it": "Acqua",
+        "en": "Water"
+      },
+      "description": {
+        "it": "Fornitura di Acqua.",
+        "en": "Water Supply."
+      }
+    },
+    {
+      "id": "06",
+      "icon": "energy",
+      "name": {
+        "it": "Energia Elettrica",
+        "en": "Electric Energy"
+      },
+      "description": {
+        "it": "Fornitura di energia elettrica.",
+        "en": "Electricity supply."
+      }
+    },
+    {
+      "id": "07",
+      "icon": "lighting",
+      "name": {
+        "it": "Illuminazione",
+        "en": "Lighting"
+      },
+      "description": {
+        "it": "Tutte le banchine sono sempre illuminate h24.",
+        "en": "All the docks are always illuminated 24 hours a day."
+      }
+    },
+    {
+      "id": "08",
+      "icon": "gasoline",
+      "name": {
+        "it": "Carburante",
+        "en": "Fuel"
+      },
+      "description": {
+        "it": "Distributore di carburante e gasolio (h.8/20 periodo estivo).",
+        "en": "Fuel and diesel station (h.8 / 20 in summer)."
+      }
+    },
+    {
+      "id": "09",
+      "icon": "watertaxi",
+      "name": {
+        "it": "Water Taxi",
+        "en": "Water Taxi"
+      },
+      "description": {
+        "it": "Servizio di water taxi per ogni destinazione.",
+        "en": "Water taxi service for every destination."
+      }
+    },
+    {
+      "id": "10",
+      "icon": "parking",
+      "name": {
+        "it": "Posto Auto",
+        "en": "Parking Place"
+      },
+      "description": {
+        "it": "Parcheggio auto/moto.",
+        "en": "Car / motorbike parking."
+      }
+    },
+    {
+      "id": "11",
+      "icon": "vigilance",
+      "name": {
+        "it": "Vigilanza notturna",
+        "en": "Night Surveillance"
+      },
+      "description": {
+        "it": "Servizio di sorveglianza notturna.",
+        "en": "Night surveillance service."
+      }
+    },
+    {
+      "id": "12",
+      "icon": "skipper",
+      "name": {
+        "it": "Skipper",
+        "en": "Service"
+      },
+      "description": {
+        "it": "Servizio skipper per ogni destinazione.",
+        "en": "Skipper service for every destination."
+      }
+    }
+  ]
+}
+
