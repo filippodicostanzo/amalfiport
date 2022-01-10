@@ -25,4 +25,32 @@
     width: 100%;
     justify-content: center;
   }
+
+  .header {
+    .caption {
+      h1 {
+        font-size: 35px;
+        letter-spacing: 10px;
+      }
+    }
+  }
+
+  header.header {
+    height: 70vh;
+    min-height: auto;
+    position: relative;
+
+    .image-layer {
+      height: 70vh;
+    }
+    .swiper-pagination {
+      bottom: 10px;
+      left: 0;
+      transform: translate(0, 50%);
+      right: 0;
+      span {
+        margin: 0 5px;
+      }
+    }
+  }
 }
