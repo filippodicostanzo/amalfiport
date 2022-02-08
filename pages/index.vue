@@ -218,11 +218,11 @@
                   <ul>
                     <li>
                       <font-awesome-icon :icon="['fas', 'phone']"/>
-                      +39.089.873091
+                      +39.347.3495280
                     </li>
                     <li>
                       <font-awesome-icon :icon="['fas', 'phone']"/>
-                      +39.347.3495280
+                      +39.339.4224484
                     </li>
                     <li>
                       <font-awesome-icon :icon="['fas', 'envelope']"/>

@@ -29,11 +29,11 @@
             <ul class="contacts-list">
               <li>
                 <font-awesome-icon :icon="['fas', 'phone']"/>
-                +39.089.873091
+                +39 3473495280
               </li>
               <li>
                 <font-awesome-icon :icon="['fas', 'phone']"/>
-                +39.347.3495280
+                +39 3394224484
               </li>
               <li>
                 <font-awesome-icon :icon="['fas', 'envelope']"/>

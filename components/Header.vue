@@ -14,6 +14,8 @@
           <nuxt-link :to="switchLocalePath('en')" exact>EN</nuxt-link>
         </li>
         <li>&nbsp</li>
+        <li><a href="tel:+39.347.3495280" target="_blank"><i class="flaticon-phone"></i></a></li>
+        <li><a href="tel:+39.339.4224484" target="_blank"><i class="flaticon-phone"></i></a></li>
         <li><a href="https://www.instagram.com/marinacoppola_amalfi/" target="_blank"><i class="flaticon-instagram-logo"></i></a></li>
         <li><a href="https://www.facebook.com/portoamalfi/" target="_blank"><i class="flaticon-facebook"></i></a></li>
       </ul>
