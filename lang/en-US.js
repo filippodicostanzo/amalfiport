@@ -5,6 +5,7 @@ export default {
     history: 'History',
     amalficoast: 'Amalfi Coast',
     services: 'Serivces',
+    rent: 'Rent',
     location: 'Location',
     excursions: 'Excursions',
     contacts: 'Contacts',

@@ -4,6 +4,7 @@ export default {
     about: 'Chi Siamo',
     amalficoast: 'Amalfi Coast',
     services: 'Servizi',
+    rent: 'Rent',
     location: 'Dove Siamo',
     excursions: 'Escursioni',
     contacts: 'Contatti',
